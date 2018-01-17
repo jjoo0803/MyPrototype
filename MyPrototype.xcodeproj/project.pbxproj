@@ -7,21 +7,53 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1C8F0DA22007375900639495 /* CatInfoTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C8F0DA12007375900639495 /* CatInfoTableViewController.swift */; };
+		1C8F0DA620074DA800639495 /* InputInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C8F0DA520074DA800639495 /* InputInfoViewController.swift */; };
+		632604361FF60D7A00116B83 /* CHTableViewControllers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 632604291FF60D7800116B83 /* CHTableViewControllers.swift */; };
+		632604371FF60D7A00116B83 /* RecordButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6326042A1FF60D7800116B83 /* RecordButton.swift */; };
+		632604381FF60D7A00116B83 /* CHContentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6326042B1FF60D7900116B83 /* CHContentViewController.swift */; };
+		632604391FF60D7A00116B83 /* CHModalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6326042C1FF60D7900116B83 /* CHModalViewController.swift */; };
+		6326043A1FF60D7A00116B83 /* NavigationControllers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6326042D1FF60D7900116B83 /* NavigationControllers.swift */; };
+		6326043B1FF60D7A00116B83 /* SwipeActionTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6326042E1FF60D7900116B83 /* SwipeActionTableViewCell.swift */; };
+		6326043C1FF60D7A00116B83 /* CHPickerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6326042F1FF60D7900116B83 /* CHPickerViewController.swift */; };
+		6326043D1FF60D7A00116B83 /* CHViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 632604301FF60D7900116B83 /* CHViews.swift */; };
+		6326043E1FF60D7A00116B83 /* FIlters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 632604311FF60D7900116B83 /* FIlters.swift */; };
+		6326043F1FF60D7A00116B83 /* UIViewController+Navigation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 632604321FF60D7900116B83 /* UIViewController+Navigation.swift */; };
+		632604401FF60D7A00116B83 /* CHControls.swift in Sources */ = {isa = PBXBuildFile; fileRef = 632604331FF60D7900116B83 /* CHControls.swift */; };
+		632604411FF60D7A00116B83 /* DrawingCanvasView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 632604341FF60D7900116B83 /* DrawingCanvasView.swift */; };
+		632604421FF60D7A00116B83 /* CHPagingScrollViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 632604351FF60D7A00116B83 /* CHPagingScrollViewController.swift */; };
+		632604441FF6312F00116B83 /* CityPicker.plist in Resources */ = {isa = PBXBuildFile; fileRef = 632604431FF6312F00116B83 /* CityPicker.plist */; };
 		636D66A01FF3307E00042957 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 636D669F1FF3307E00042957 /* AppDelegate.swift */; };
 		636D66A21FF3307E00042957 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 636D66A11FF3307E00042957 /* ViewController.swift */; };
 		636D66A51FF3307E00042957 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 636D66A31FF3307E00042957 /* Main.storyboard */; };
-		636D66A71FF3307E00042957 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 636D66A61FF3307E00042957 /* Assets.xcassets */; };
 		636D66AA1FF3307E00042957 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 636D66A81FF3307E00042957 /* LaunchScreen.storyboard */; };
+		63E9014E1FFF5EC9002F87F7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63E9014D1FFF5EC9002F87F7 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1C8F0DA12007375900639495 /* CatInfoTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatInfoTableViewController.swift; sourceTree = "<group>"; };
+		1C8F0DA520074DA800639495 /* InputInfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InputInfoViewController.swift; sourceTree = "<group>"; };
+		632604291FF60D7800116B83 /* CHTableViewControllers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CHTableViewControllers.swift; sourceTree = "<group>"; };
+		6326042A1FF60D7800116B83 /* RecordButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RecordButton.swift; sourceTree = "<group>"; };
+		6326042B1FF60D7900116B83 /* CHContentViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CHContentViewController.swift; sourceTree = "<group>"; };
+		6326042C1FF60D7900116B83 /* CHModalViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CHModalViewController.swift; sourceTree = "<group>"; };
+		6326042D1FF60D7900116B83 /* NavigationControllers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NavigationControllers.swift; sourceTree = "<group>"; };
+		6326042E1FF60D7900116B83 /* SwipeActionTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwipeActionTableViewCell.swift; sourceTree = "<group>"; };
+		6326042F1FF60D7900116B83 /* CHPickerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CHPickerViewController.swift; sourceTree = "<group>"; };
+		632604301FF60D7900116B83 /* CHViews.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CHViews.swift; sourceTree = "<group>"; };
+		632604311FF60D7900116B83 /* FIlters.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FIlters.swift; sourceTree = "<group>"; };
+		632604321FF60D7900116B83 /* UIViewController+Navigation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIViewController+Navigation.swift"; sourceTree = "<group>"; };
+		632604331FF60D7900116B83 /* CHControls.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CHControls.swift; sourceTree = "<group>"; };
+		632604341FF60D7900116B83 /* DrawingCanvasView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DrawingCanvasView.swift; sourceTree = "<group>"; };
+		632604351FF60D7A00116B83 /* CHPagingScrollViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CHPagingScrollViewController.swift; sourceTree = "<group>"; };
+		632604431FF6312F00116B83 /* CityPicker.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = CityPicker.plist; sourceTree = "<group>"; };
 		636D669C1FF3307E00042957 /* MyPrototype.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyPrototype.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		636D669F1FF3307E00042957 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		636D66A11FF3307E00042957 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		636D66A41FF3307E00042957 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		636D66A61FF3307E00042957 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		636D66A91FF3307E00042957 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		636D66AB1FF3307E00042957 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		63E9014D1FFF5EC9002F87F7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +67,27 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		6326040E1FF60D0C00116B83 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				632604431FF6312F00116B83 /* CityPicker.plist */,
+				6326042B1FF60D7900116B83 /* CHContentViewController.swift */,
+				632604331FF60D7900116B83 /* CHControls.swift */,
+				6326042C1FF60D7900116B83 /* CHModalViewController.swift */,
+				632604351FF60D7A00116B83 /* CHPagingScrollViewController.swift */,
+				6326042F1FF60D7900116B83 /* CHPickerViewController.swift */,
+				632604291FF60D7800116B83 /* CHTableViewControllers.swift */,
+				632604301FF60D7900116B83 /* CHViews.swift */,
+				632604341FF60D7900116B83 /* DrawingCanvasView.swift */,
+				632604311FF60D7900116B83 /* FIlters.swift */,
+				6326042D1FF60D7900116B83 /* NavigationControllers.swift */,
+				6326042A1FF60D7800116B83 /* RecordButton.swift */,
+				6326042E1FF60D7900116B83 /* SwipeActionTableViewCell.swift */,
+				632604321FF60D7900116B83 /* UIViewController+Navigation.swift */,
+			);
+			path = "New Group";
+			sourceTree = "<group>";
+		};
 		636D66931FF3307E00042957 = {
 			isa = PBXGroup;
 			children = (
@@ -54,14 +107,25 @@
 		636D669E1FF3307E00042957 /* MyPrototype */ = {
 			isa = PBXGroup;
 			children = (
+				63E9014D1FFF5EC9002F87F7 /* Assets.xcassets */,
+				6326040E1FF60D0C00116B83 /* New Group */,
+				636D66B11FF3645400042957 /* img */,
 				636D669F1FF3307E00042957 /* AppDelegate.swift */,
 				636D66A11FF3307E00042957 /* ViewController.swift */,
-				636D66A31FF3307E00042957 /* Main.storyboard */,
-				636D66A61FF3307E00042957 /* Assets.xcassets */,
-				636D66A81FF3307E00042957 /* LaunchScreen.storyboard */,
 				636D66AB1FF3307E00042957 /* Info.plist */,
+				1C8F0DA520074DA800639495 /* InputInfoViewController.swift */,
+				636D66A31FF3307E00042957 /* Main.storyboard */,
+				636D66A81FF3307E00042957 /* LaunchScreen.storyboard */,
+				1C8F0DA12007375900639495 /* CatInfoTableViewController.swift */,
 			);
 			path = MyPrototype;
+			sourceTree = "<group>";
+		};
+		636D66B11FF3645400042957 /* img */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = img;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -123,8 +187,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				632604441FF6312F00116B83 /* CityPicker.plist in Resources */,
 				636D66AA1FF3307E00042957 /* LaunchScreen.storyboard in Resources */,
-				636D66A71FF3307E00042957 /* Assets.xcassets in Resources */,
+				63E9014E1FFF5EC9002F87F7 /* Assets.xcassets in Resources */,
 				636D66A51FF3307E00042957 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -136,8 +201,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1C8F0DA22007375900639495 /* CatInfoTableViewController.swift in Sources */,
+				6326043F1FF60D7A00116B83 /* UIViewController+Navigation.swift in Sources */,
+				632604421FF60D7A00116B83 /* CHPagingScrollViewController.swift in Sources */,
+				632604371FF60D7A00116B83 /* RecordButton.swift in Sources */,
+				6326043A1FF60D7A00116B83 /* NavigationControllers.swift in Sources */,
+				6326043E1FF60D7A00116B83 /* FIlters.swift in Sources */,
+				6326043B1FF60D7A00116B83 /* SwipeActionTableViewCell.swift in Sources */,
+				1C8F0DA620074DA800639495 /* InputInfoViewController.swift in Sources */,
+				6326043C1FF60D7A00116B83 /* CHPickerViewController.swift in Sources */,
+				632604361FF60D7A00116B83 /* CHTableViewControllers.swift in Sources */,
+				632604381FF60D7A00116B83 /* CHContentViewController.swift in Sources */,
 				636D66A21FF3307E00042957 /* ViewController.swift in Sources */,
+				6326043D1FF60D7A00116B83 /* CHViews.swift in Sources */,
+				632604401FF60D7A00116B83 /* CHControls.swift in Sources */,
 				636D66A01FF3307E00042957 /* AppDelegate.swift in Sources */,
+				632604391FF60D7A00116B83 /* CHModalViewController.swift in Sources */,
+				632604411FF60D7A00116B83 /* DrawingCanvasView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,6 +355,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = BDM6UDD9TX;
 				INFOPLIST_FILE = MyPrototype/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.codershigh.MyPrototype;
@@ -289,6 +370,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = BDM6UDD9TX;
 				INFOPLIST_FILE = MyPrototype/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.codershigh.MyPrototype;
